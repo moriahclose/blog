@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "moriah-close-blogs",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Moriah's blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Moriah Close <moriah.v.close@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
