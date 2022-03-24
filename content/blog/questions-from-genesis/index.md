@@ -14,7 +14,7 @@ Why can't man live forever?
 > `Genesis 3:22 (CSB)`
 
 What was Cain's sin?
-> If you do waht is right, won't you be accepted? But if you do what is right, sin is crouching at the door. Its desire is for you, but you must rule over it.  
+> If you do what is right, won't you be accepted? But if you do what is right, sin is crouching at the door. Its desire is for you, but you must rule over it.  
 > `Genesis 4:7 (CSB)`
 
 Aren't Adam, Eve, Cain, and Abel the only ones on Earth so far?
