@@ -43,7 +43,7 @@ const Bio = () => {
         alt="Profile picture"
       />
       <p>
-        Yeah I do. I'm just starting. I'm employed as a Software Engineer but I'll probably write about other stuff too.
+        I'm employed as a Software Engineer but I'll probably write about other stuff too.
       </p>
     </div>
   )
