@@ -114,7 +114,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Moriah Close Blogs`,
-        short_name: `GatsbyJS`,
+        short_name: `MC Blogs`,
         start_url: `/`,
         background_color: `#629688`,
         // This will impact how browsers show your PWA/website
